@@ -8,7 +8,7 @@ Number of Requests Made: Total number of GET requests made to the root path
 ```
 
 Every time a GET request is made to the root path, the server will write the following information to a newline delimited file called 'logs':
-<\request-ip>-<\current-time>-<\request-time> 
+`<request-ip>-<current-time>-<request-time> `
 
 Start the server with the following command:
 ```
