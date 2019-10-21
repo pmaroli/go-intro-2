@@ -1,4 +1,4 @@
-A simple server that gets the time from [worldtimeapi.org] (http://worldtimeapi.org/) ever e seconds (where e is Euler's constant)
+A simple server that gets the time from [worldtimeapi.org](http://worldtimeapi.org/) ever e seconds (where e is Euler's constant)
 
 GET requests to the root path return the following:
 ```
